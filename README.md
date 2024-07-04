@@ -13,5 +13,13 @@ with Jetpack Compose
 
 # Screenshots
 
-<img src="screenshots/Screenshot_20240703_204953.png"  width="250" alt="screenshot1">
-<img src="screenshots/Screenshot_20240703_205126.png"  width="250" alt="screenshot2">
+<table>
+  <tr>
+    <td>
+      <img src="screenshots/Screenshot_20240703_204953.png"  width="250" alt="screenshot1">
+    </td>
+    <td>
+      <img src="screenshots/Screenshot_20240703_205126.png"  width="250" alt="screenshot2">
+    </td>
+  </tr>
+</table>
